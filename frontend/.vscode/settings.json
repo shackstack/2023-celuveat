@@ -1,0 +1,16 @@
+{
+  "editor.formatOnSave": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": "explicit",
+    "source.fixAll.stylelint": "explicit"
+  },
+  "typescript.validate.enable": true,
+
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+
+  "stylelint.enable": true,
+
+  "stylelint.config": null,
+  "stylelint.validate": ["css", "scss", "typescript", "typescriptreact"],
+  "cSpell.words": ["JSESSION", "tanstack", "webp", "zustand"]
+}
